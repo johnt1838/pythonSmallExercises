@@ -1,8 +1,8 @@
 # pythonSmallExercises
 **This repository will contain some small projects in python.**
 ## "Requests"
-1.***exercise1.py***: Write a Python program to display the current date and time.
-2.***exercise2.py***:
+1. ***exercise1.py***: Write a Python program to display the current date and time.
+2. ***exercise2.py***:
 
 
 
