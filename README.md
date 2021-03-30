@@ -1,5 +1,5 @@
 # pythonSmallExercises
-**This repository will contain some small projects in python.**
+**This repository contains some small projects in python.**
 ## "Requests" from the internet.
 1. ***exercise1.py*** (easy): Write a Python program to display the current date and time.
 2. ***exercise2.py*** (easy): Write a Python program to print all even numbers from a given numbers list in the same order and stop the printing if any numbers that come after 237 in the sequence. 
