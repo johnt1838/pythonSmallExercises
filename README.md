@@ -9,6 +9,7 @@
 1. ***idea1.py*** : Python program that comments given text on istagram post. 
 Note: I used pyautogui library so i can use functions like  **pyautogui.press** and **pyautogui.dragTo** that provide me keyboard functions.
 -This program is used only for educational purposes-
+**idea1.py (file)**: the idea1.py uses a file named instagram_comments.txt, which contains lines that will be printed.
 
 
 
