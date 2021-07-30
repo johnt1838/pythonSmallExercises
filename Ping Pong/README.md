@@ -1,1 +1,1 @@
-A simple ping pong game made with turle library.
+A simple ping pong game made with turtle library.
