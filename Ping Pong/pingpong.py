@@ -124,7 +124,7 @@ while True:
         ball.dy *= -1  # reverse direction
 
     if ball.xcor() > 390:
-        os.system("aplay sound.wav")
+        os.system("aplay sound-pout.wav") # pause game and play sound
         ball.goto(0, 0)
         ball.dx *= -1  # reverse direction
         score_a+=1
@@ -132,7 +132,7 @@ while True:
         pen.write("Player A: {} Player B: {}".format(score_a,score_b), align="center", font=("Courier", 24, "normal"))
 
     if ball.xcor() < -390:
-        os.system("aplay sound.wav")
+        os.system("aplay sound-pout.wav") # pause game and play sound
         ball.goto(0, 0)
         ball.dx *= -1  # reverse direction
         score_b+=1
